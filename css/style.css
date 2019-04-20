@@ -166,6 +166,16 @@ label {
 	padding-bottom: .2em;
 }
 
+.block-two h3 {
+	font-family: 'Gothic A1', sans-serif;
+	font-size: 1.2em;
+	font-weight: 400;
+	color: #000;
+	text-transform: uppercase;
+	color: #0a2749;
+	padding-top: 0.2em;
+}
+
 .block-two p {
 	font-family: 'Gothic A1', sans-serif;
 	font-size: 1.25em;
@@ -191,6 +201,16 @@ label {
 	padding-bottom: 0.2em;
 }
 
+.block-three h3 {
+	font-family: 'Gothic A1', sans-serif;
+	font-size: 1.2em;
+	font-weight: 400;
+	color: #000;
+	text-transform: uppercase;
+	color: #0a2749;
+	padding-top: 0.2em;
+}
+
 .block-three p {
 	font-family: 'Gothic A1', sans-serif;
 	font-size: 1.25em;
@@ -209,7 +229,6 @@ General styles
 .block-one,
 .block-two,
 .block-three,
-.twin
 .footer {
 	padding: 1em 5em;
 	margin-bottom: 2em;
@@ -294,7 +313,7 @@ General styles
 calendar
 --------------------------------------------------------------*/
 
-.twin {
+/* .twin {
 	background: #f9f9ff;
 	padding: 2em 5em;
 }
@@ -307,25 +326,25 @@ calendar
 .twin {
 	grid-column: 1/5;
 	grid-row: 3/4;
-	/* grid-column: 1 / -1;
-	height: auto; */
-}
+  grid-column: 1 / -1;
+	height: auto;
+} */
 
-.twin:last-of-type {
+/* .twin:last-of-type {
 	grid-column: 5/10;
-	/* grid-column: 1 / -1; */
-}
+	grid-column: 1 / -1;
+} */
 
-.twin h1 {
+/* .twin h1 {
 	font-family: 'Nanum Myeongjo', serif;
 	font-size: 2.3em;
 	font-weight: 700;
 	color: #000;
 	padding-top: 1em;
 	padding-bottom: 1em;
-}
+} */
 
-.twin h2 {
+/* .twin h2 {
 	font-family: 'Gothic A1', sans-serif;
 	font-size: 1.4em;
 	text-transform: uppercase;
@@ -347,16 +366,16 @@ calendar
 
 .twin h4 {
 	padding-bottom: 0.2em;
-}
+} */
 
-.twin p {
+/* .twin p {
 	font-family: 'Gothic A1', sans-serif;
 	font-size: 1em;
 	font-weight: 400;
 	color: #393939;
 	padding-top: 1em;
 	padding-bottom: 1em;
-}
+} */
 
 /*--------------------------------------------------------------
 parallax
