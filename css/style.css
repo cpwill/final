@@ -363,7 +363,7 @@ parallax
 --------------------------------------------------------------*/
 .parallax {
   /*background-image: url('http://i63.tinypic.com/14mb8l3.jpg');*/
-	background-image: url('img/hp-billboard-logo.png');
+	background-image: url('../img/hp-billboard-logo.png');
   /* Set a specific height */
   min-height: 80vh;
 
@@ -378,7 +378,7 @@ parallax
 
 .parallax-abt {
 	/*background-image: url('http://i63.tinypic.com/14mb8l3.jpg');*/
-	background-image: url('http://i67.tinypic.com/11to36c.jpg');
+	background-image: url('../img/about.jpg');
 	/* Set a specific height */
 	min-height: 80vh;
 
@@ -392,7 +392,7 @@ parallax
 
 .parallax-cal {
   /*background-image: url('http://i63.tinypic.com/14mb8l3.jpg');*/
-	background-image: url('http://i65.tinypic.com/2zpuk5i.jpg');
+	background-image: url('../img/calendar.jpg');
   /* Set a specific height */
   min-height: 73vh;
 
@@ -406,8 +406,7 @@ parallax
 }
 
 .parallax-res {
-	/* background-image: url('/Users/carolinewilliams/Desktop/sima-tres-master/img/students.jpg'); */
-	background-image: url('img/students.jpg');
+	background-image: url('../img/students.jpg');
   min-height: 80vh;
   background-attachment: fixed;
   background-position: center;
@@ -417,8 +416,7 @@ parallax
 
 
 .parallax-contact {
-  /*background-image: url('http://i63.tinypic.com/14mb8l3.jpg');*/
-	background-image: url('http://i64.tinypic.com/oau0rp.jpg');
+	background-image: url('../img/contact.jpg');
   /* Set a specific height */
   min-height: 80vh;
 
