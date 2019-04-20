@@ -363,7 +363,7 @@ parallax
 --------------------------------------------------------------*/
 .parallax {
   /*background-image: url('http://i63.tinypic.com/14mb8l3.jpg');*/
-	background-image: url('/Users/carolinewilliams/Desktop/sima-tres-master/img/hp-billboard-logo.png');
+	background-image: url('img/hp-billboard-logo.png');
   /* Set a specific height */
   min-height: 80vh;
 
